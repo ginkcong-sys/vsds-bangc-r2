@@ -1,0 +1,9 @@
+torch
+transformers>=4.45.0
+accelerate
+bitsandbytes
+sentence-transformers
+rank-bm25
+pandas
+numpy
+tqdm
